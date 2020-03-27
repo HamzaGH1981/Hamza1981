@@ -1,11 +1,13 @@
-Rep mdf un remonte rep un githib.com
+﻿Rep mdf un remonte rep un githib.com
 
 Add other line
 
 اضافة اسطر اخرى
 
 قمت بكتابة هذه الاسطر على مستوى المستودع البعيد مباشرة.
+*****************
 
+git push master origin... commit -m "add push line".
 
 
 
